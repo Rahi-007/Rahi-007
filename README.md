@@ -26,8 +26,8 @@
   <!-- &nbsp;
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" /> -->
   <br/>
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
   &nbsp;
@@ -56,31 +56,213 @@
     <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
     <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
     <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-    <img src="./assets/halfStar.svg" alt="Half Star" width="16" height="16">
+    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
+  </sub>
+</p>
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" alt="CSS"/></sub>
+  <b><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
   </sub>
 </p>
 
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" alt="SASS"/></sub>
+  <b><a href="https://sass-lang.com/" target="_blank">SASS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
 
-<i>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML5 </a></b><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/halfStar.svg" alt="Half Star" width="16" height="16"></p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a></b> ⭐⭐⭐⭐⭐</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20"/> <b><a href="https://sass-lang.com/" target="_blank">SASS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20"/> <b><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20"/> <b><a href="https://getbootstrap.com/" target="_blank">Bootstrap 5</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> <b><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></b> ⭐⭐⭐☆☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> <b><a href="https://reactjs.org/" target="_blank">React JS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="20"/> <b><a href="https://nextjs.org/" target="_blank">Next JS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> <b><a href="https://nodejs.org/" target="_blank">Node JS</a></b> ⭐⭐⭐☆☆</p>
-<p><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="20"/> <b><a href="https://expressjs.com/" target="_blank">Express JS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="20"/> <b><a href="https://nestjs.com/" target="_blank">Nest JS</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> <b><a href="https://www.mysql.com/" target="_blank">SQL</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> <b><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> <b><a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> <b><a href="https://www.php.net/" target="_blank">PHP</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20"/> <b><a href="https://laravel.com/" target="_blank">Laravel</a></b> ⭐⭐⭐⭐☆</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"/> <b><a href="https://www.figma.com/" target="_blank">Figma</a></b> ⭐⭐⭐☆☆</p>
-</i>
+<p>
+  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20" alt="Tailwind CSS"/></sub>
+  <b><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20" alt="Bootstrap 5"/></sub>
+  <b><a href="https://getbootstrap.com/" target="_blank">Bootstrap 5&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" alt="JavaScript"/></sub>
+  <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" alt="TypeScript"/></sub>
+  <b><a href="https://www.typescriptlang.org/" target="_blank">TypeScript&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React JS"/></sub>
+  <b><a href="https://reactjs.org/" target="_blank">React JS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="20" alt="Next JS"/></sub>
+  <b><a href="https://nextjs.org/" target="_blank">Next JS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" alt="Node JS"/></sub>
+  <b><a href="https://nodejs.org/" target="_blank">Node JS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="20" alt="Express JS"/></sub>
+  <b><a href="https://expressjs.com/" target="_blank">Express JS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="20" alt="Nest JS"/></sub>
+  <b><a href="https://nestjs.com/" target="_blank">Nest JS&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" alt="SQL"/></sub>
+  <b><a href="https://www.mysql.com/" target="_blank">SQL&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB"/></sub>
+  <b><a href="https://www.mongodb.com/" target="_blank">MongoDB&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/></sub>
+  <b><a href="https://www.postgresql.org/" target="_blank">PostgreSQL&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" alt="PHP"/></sub>
+  <b><a href="https://www.php.net/" target="_blank">PHP&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
+  </sub>
+</p>
+
+<p>
+  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20" alt="Laravel"/></sub>
+  <b><a href="https://laravel.com/" target="_blank">Laravel&nbsp;</a></b>
+  (currently learning)
+  <!-- <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/noFillStar.svg" width="18" height="18">
+  </sub> -->
+</p>
+
+<p>
+  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" alt="Figma"/></sub>
+  <b><a href="https://www.figma.com/" target="_blank">Figma&nbsp;</a></b>
+  <sub>
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/fullStar.svg" width="18" height="18">
+    <img src="./assets/noFillStar.svg" width="18" height="18">
+    <img src="./assets/noFillStar.svg" width="18" height="18">
+  </sub>
+</p>
 
 <!-- ===================== STATS ===================== -->
 
