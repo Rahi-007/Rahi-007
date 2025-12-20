@@ -1,6 +1,6 @@
 <!-- ===================== Banner Section ===================== -->
-
-<img src="./assets/banner.png" height="350" width="100%" alt="Bisakto Rahi Banner" />
+<hr/>
+<img src="./assets/banner.png" height="400" width="100%" alt="Bisakto Rahi Banner" />
 <hr/>
 
 <div align="center">
@@ -8,6 +8,7 @@
  <!-- <br/> -->
 
   <!-- ===================== Tech Badges ===================== -->
+  <p>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
@@ -25,13 +26,14 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
   <!-- &nbsp;
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" /> -->
-  <br/>
-  <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-10b981?style=flat&labelColor=064e3b" />
+  </p>
+    <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <p>
+    <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-10b981?style=flat&labelColor=064e3b" />
+  </p>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
@@ -243,13 +245,6 @@
   <sub><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20" alt="Laravel"/></sub>
   <b><a href="https://laravel.com/" target="_blank">Laravel&nbsp;</a></b>
   (currently learning)
-  <!-- <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/noFillStar.svg" width="18" height="18">
-  </sub> -->
 </p>
 
 <p>
@@ -259,8 +254,8 @@
     <img src="./assets/fullStar.svg" width="18" height="18">
     <img src="./assets/fullStar.svg" width="18" height="18">
     <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/noFillStar.svg" width="18" height="18">
-    <img src="./assets/noFillStar.svg" width="18" height="18">
+    <img src="./assets/halfStar.svg" width="18" height="18">
+    <img src="./assets/nullStar.svg" width="18" height="18">
   </sub>
 </p>
 
@@ -268,11 +263,18 @@
 
 <h3>📊 GitHub Stats</h3>
 <!-- Dark mode -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&layout=compact&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkrahi999&bg_color=0d1117&color=c9d1d9&line=00e676&point=ffffff&area=false" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkrahi999&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" />
 
 <!-- Light mode
 <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" />
