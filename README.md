@@ -182,10 +182,39 @@
   <img src="./assets/noFillStar.svg" alt="No Fill Star" width="20" height="20">
 </p>
 </i>
-<h3> 📊 GitHub Stats</h3> 
+<h3> 📊 GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&show_icons=true&locale=en&layout=compact)  
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkrahi999&" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### 🎯 Learning Goals
+
+- Mastering Laravel framework for PHP backend development
+- Exploring advanced React patterns and state management
+- Deepening knowledge of PostgreSQL optimization techniques
+
+---
+
+### 💼 Currently Working On
+
+- Personal portfolio website redesign
+- Task management application with real-time updates
+- Learning advanced PHP design patterns
 
 ---
 
