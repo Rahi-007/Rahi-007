@@ -4,7 +4,23 @@
 <div align="center">
  <h1 style="margin: 12px 0 0 0;">Rubayed Ahammed Rahi</h1>
   <p><b>Full‑Stack Developer</b></p>
-  <p> <i> JavaScript | TypeScript | React | Next.js | Express.js | Nest.js | Postgresql </i></p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
+  <!-- &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" /> -->
   <br/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
   &nbsp;&nbsp;
