@@ -1,12 +1,13 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== Banner Section ===================== -->
 
-<hr/>
 <img src="./assets/banner.png" height="350" width="100%" alt="Bisakto Rahi Banner" />
 <hr/>
 
 <div align="center">
-  <h3 style="margin:12px 0 30px 0; font-size:30px">Rubayed Ahammed Rahi</h1>
-  <!-- Tech Badges (unchanged, just aligned) -->
+ <h1>Rubayed Ahammed Rahi</h1>
+ <!-- <br/> -->
+
+  <!-- ===================== Tech Badges ===================== -->
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
   &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
@@ -22,18 +23,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+  <!-- &nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" /> -->
   <br/>
-    <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /> -->
   <br/>
   <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
   &nbsp;
   <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-10b981?style=flat&labelColor=064e3b" />
 </div>
-
-<br/>
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -49,38 +48,53 @@
 <!-- ===================== SKILLS (ALL KEPT) ===================== -->
 
 <h3>🛠️ Skill, Languages and Tools</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5" style="vertical-align: middle;"/>
+  <b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left: 5px; vertical-align: middle;">HTML5</a></b>
+  <span style="margin-left: 8px; vertical-align: middle;">
+    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
+    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
+    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
+    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
+    <img src="./assets/halfStar.svg" alt="Half Star" width="16" height="16">
+  </span>
+</p>
+
+
 <i>
-<p><img src="./assets/html.jpg" width="25"/> <b>HTML5</b> ⭐⭐⭐⭐⭐</p>
-<p><img src="./assets/css.jpg" width="25"/> <b>CSS</b> ⭐⭐⭐⭐⭐</p>
-<p><img src="./assets/sass.webp" width="25"/> <b>SASS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/tailwind.png" width="25"/> <b>Tailwind CSS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/bootstrap.jpg" width="25"/> <b>Bootstrap 5</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/js.jpg" width="25"/> <b>JavaScript</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/typescript.webp" width="25"/> <b>TypeScript</b> ⭐⭐⭐☆☆</p>
-<p><img src="./assets/react.jpg" width="25"/> <b>React JS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/next.webp" width="25"/> <b>Next JS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/node.jpg" width="25"/> <b>Node JS</b> ⭐⭐⭐☆☆</p>
-<p><img src="./assets/express.jpg" width="25"/> <b>Express JS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/nest.webp" width="25"/> <b>Nest JS</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/sql.webp" width="25"/> <b>SQL</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/mongo.png" width="25"/> <b>MongoDB</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/postgresql.webp" width="25"/> <b>PostgreSQL</b> ⭐⭐⭐⭐☆</p>
-<p><img src="./assets/figma.png" width="25"/> <b>Figma</b> ⭐⭐⭐☆☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML5 </a></b><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/fullStar.svg" alt="Star" width="16" height="16"><img src="./assets/halfStar.svg" alt="Half Star" width="16" height="16"></p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a></b> ⭐⭐⭐⭐⭐</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20"/> <b><a href="https://sass-lang.com/" target="_blank">SASS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20"/> <b><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20"/> <b><a href="https://getbootstrap.com/" target="_blank">Bootstrap 5</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> <b><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></b> ⭐⭐⭐☆☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> <b><a href="https://reactjs.org/" target="_blank">React JS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="20"/> <b><a href="https://nextjs.org/" target="_blank">Next JS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> <b><a href="https://nodejs.org/" target="_blank">Node JS</a></b> ⭐⭐⭐☆☆</p>
+<p><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="20"/> <b><a href="https://expressjs.com/" target="_blank">Express JS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="20"/> <b><a href="https://nestjs.com/" target="_blank">Nest JS</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> <b><a href="https://www.mysql.com/" target="_blank">SQL</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> <b><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> <b><a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> <b><a href="https://www.php.net/" target="_blank">PHP</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20"/> <b><a href="https://laravel.com/" target="_blank">Laravel</a></b> ⭐⭐⭐⭐☆</p>
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"/> <b><a href="https://www.figma.com/" target="_blank">Figma</a></b> ⭐⭐⭐☆☆</p>
 </i>
 
 <!-- ===================== STATS ===================== -->
 
 <h3>📊 GitHub Stats</h3>
-<!-- Light mode -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" /> -->
-
 <!-- Dark mode -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=true" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&layout=compact&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&layout=compact&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="100%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkrahi999&bg_color=0d1117&color=c9d1d9&line=00e676&point=ffffff&area=false" />
 </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkrahi999&layout=compact&theme=dark" />
+
+<!-- Light mode
+<img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkrahi999&layout=compact&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darkrahi999&api_domain=wakapi.dev&theme=dark" />
 ![My WakaTime Chart](https://wakatime.com/share/@YOUR_ID/someGeneratedChart.svg) -->
 

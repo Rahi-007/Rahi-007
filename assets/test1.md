@@ -2,7 +2,8 @@
 <img src="./assets/banner.png" hight="350" width="100%" alt="Bisakto Rahi Banner">
 <hr>
 <div align="center">
- <h1 style="margin: 12px 0 0 0;">Rubayed Ahammed Rahi</h1>
+ <h1>Rubayed Ahammed Rahi</h1>
+ <br/>
   <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=stackshare&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
