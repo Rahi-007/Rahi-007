@@ -49,13 +49,13 @@
 
 <h3>🛠️ Skill, Languages and Tools</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5" style="vertical-align: middle;"/>
-  <b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-left: 5px; vertical-align: middle;">HTML5</a></b>
-  <span style="margin-left: 8px; vertical-align: middle;">
-    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
-    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
-    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
-    <img src="./assets/fullStar.svg" alt="Star" width="16" height="16">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5"/>
+  <sup><b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML5 &nbsp;</a></b></sup>
+  <span>
+    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
+    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
+    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
+    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
     <img src="./assets/halfStar.svg" alt="Half Star" width="16" height="16">
   </span>
 </p>
