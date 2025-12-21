@@ -1,6 +1,6 @@
 <!-- ===================== Banner Section ===================== -->
 <hr/>
-<img src="./assets/banner.png" height="450" width="100%" alt="Bisakto Rahi Banner" />
+<img src="./assets/banner.png" height="420" width="100%" alt="Bisakto Rahi Banner" />
 <hr/>
 
 <div align="center">
@@ -146,7 +146,7 @@
 </p>
 
 <p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="20" alt="Next JS"/></sub>
+  <sub><img src="./assets/nextjs.svg" width="20" alt="Next JS"/></sub>
   <b><a href="https://nextjs.org/" target="_blank">&nbsp;Next JS&nbsp;</a></b>
   <sub>
     <img src="./assets/fullStar.svg" width="18" height="18">
@@ -182,7 +182,7 @@
 </p>
 
 <p>
-  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="20" alt="Nest JS"/></sub>
+  <sub><img src="./nestJS.svg" width="20" alt="Nest JS"/></sub>
   <b><a href="https://nestjs.com/" target="_blank">&nbsp;Nest JS&nbsp;</a></b>
   <sub>
     <img src="./assets/fullStar.svg" width="18" height="18">
@@ -285,9 +285,9 @@
 
 ### 💼 Currently Working On
 
+* Working on ERP web application
 * Personal portfolio website redesign
 * Task management application with real-time updates
-* Learning advanced PHP design patterns
 
 ---
 
@@ -295,13 +295,13 @@
 
 * **Modern Portfolio** — Next.js, Tailwind CSS, Framer Motion
 * **TaskFlow API** — Nest.js, PostgreSQL, Prisma
-* **Realtime Chat** — React, Socket.io, Node.js
+* **Realtime Chat** — React, Socket.io, Express.js
 
 ---
 
 ### 🧠 Experience
 
-* Built and maintained full‑stack applications with React/Next.js, Node/Nest.js
+* Built and maintained full‑stack applications with React/Next.js, Nest.js & PostgreSQL
 * Designed REST APIs, database schemas, optimized queries
 * Implemented reusable UI components and responsive layouts
 
@@ -309,16 +309,20 @@
 
 ### 🎓 Education & Certifications
 
-* B.Sc. in Computer Science (or equivalent experience)
-* Online certifications (JS / TS / React / Node)
+* Successfully completed Level 3 under NHRDF
+* Online certifications (JS  / React / Express / mongoDB)
+* Currently working as a Junior Developer at Globe ERP
 
 ---
 
 ### 📬 Contact
 
-* LinkedIn: [https://linkedin.com/in/bisaktorahi007](https://linkedin.com/in/bisaktorahi007)
-* WhatsApp: [https://wa.me/8801729249260](https://wa.me/8801729249260)
-* Email: [darkrahi999@gmail.com](mailto:darkrahi999@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801729249260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bisaktorahi007-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bisaktorahi007)
+[![Facebook](https://img.shields.io/badge/Facebook-bisaktorahi-1877F2?logo=facebook&logoColor=white)](https://fb.com/bisaktorahi)
+[![Instagram](https://img.shields.io/badge/Instagram-bisaktorahi007-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bisaktorahi007)
+[![Twitter](https://img.shields.io/badge/Twitter-@rahi207-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/rahi207)
+[![Email](https://img.shields.io/badge/Email-darkrahi999%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:darkrahi999@gmail.com)
 
 <div align="center">
   <sub>© Bisakto Rahi — You’re welcome to reuse this CV layout with credit.</sub>
