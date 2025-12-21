@@ -273,8 +273,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darkrahi999&api_domain=wakapi.dev&theme=dark" />
 ![My WakaTime Chart](https://wakatime.com/share/@YOUR_ID/someGeneratedChart.svg) -->
 
----
-
 ### 🎯 Learning Goals
 
 * Mastering Laravel framework for PHP backend development
