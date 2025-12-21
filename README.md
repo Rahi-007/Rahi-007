@@ -182,7 +182,7 @@
 </p>
 
 <p>
-  <sub><img src="./nestJS.svg" width="20" alt="Nest JS"/></sub>
+  <sub><img src="./assets/nestJS.svg" width="20" alt="Nest JS"/></sub>
   <b><a href="https://nestjs.com/" target="_blank">&nbsp;Nest JS&nbsp;</a></b>
   <sub>
     <img src="./assets/fullStar.svg" width="18" height="18">
@@ -321,7 +321,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bisaktorahi007-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bisaktorahi007)
 [![Facebook](https://img.shields.io/badge/Facebook-bisaktorahi-1877F2?logo=facebook&logoColor=white)](https://fb.com/bisaktorahi)
 [![Instagram](https://img.shields.io/badge/Instagram-bisaktorahi007-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bisaktorahi007)
-[![Twitter](https://img.shields.io/badge/Twitter-@rahi207-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/rahi207)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-@rahi207-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/rahi207) -->
 [![Email](https://img.shields.io/badge/Email-darkrahi999%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:darkrahi999@gmail.com)
 
 <div align="center">
