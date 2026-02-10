@@ -1,6 +1,6 @@
 <!-- ===================== Banner Section ===================== -->
 <hr/>
-<img src="./assets/banner.png" height="420" width="100%" alt="Bisakto Rahi Banner" />
+<img src="./assets/github_banner.jpeg" height="420" width="100%" alt="Bisakto Rahi Banner" />
 <hr/>
 
 <div align="center">
