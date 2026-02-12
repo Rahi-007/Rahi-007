@@ -263,14 +263,14 @@
 
 <h3>📊 GitHub Stats</h3>
 <!-- Dark mode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkrahi999&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkrahi999&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahi-007&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahi-007&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" />
 
 <!-- Light mode
-<img src="https://github-readme-stats.vercel.app/api?username=darkrahi999&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkrahi999&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=darkrahi999&api_domain=wakapi.dev&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi-007&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahi-007&api_domain=wakapi.dev&theme=dark" />
 ![My WakaTime Chart](https://wakatime.com/share/@YOUR_ID/someGeneratedChart.svg) -->
 
 ### 🎯 Learning Goals
