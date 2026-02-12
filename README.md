@@ -5,7 +5,6 @@
 
 <div align="center">
  <h1>Rubayed Ahammed Rahi</h1>
- <!-- <br/> -->
 
   <!-- ===================== Tech Badges ===================== -->
   <p>
