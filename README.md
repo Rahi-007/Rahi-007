@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rubayed Ahammed Rahi
 <img src="./assets/github_banner.jpeg" height="420" width="100%" alt="Bisakto Rahi Banner" />
----
+<hr>
 <!-- ===================== Tech Badges ===================== -->
 <div align="center">
     <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
