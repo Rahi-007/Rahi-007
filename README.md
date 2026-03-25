@@ -1,32 +1,8 @@
-<!-- ===================== Banner Section ===================== -->
-<hr/>
+# 👋 Hi, I'm Rubayed Ahammed Rahi
 <img src="./assets/github_banner.jpeg" height="420" width="100%" alt="Bisakto Rahi Banner" />
 <hr/>
-
+<!-- ===================== Tech Badges ===================== -->
 <div align="center">
- <h1>Rubayed Ahammed Rahi</h1>
-
-  <!-- ===================== Tech Badges ===================== -->
-  <p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-  <!-- &nbsp;
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" /> -->
-  </p>
-    <!-- <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=flat&logo=github&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Full--Stack_Developer-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
   <p>
     <img src="https://img.shields.io/badge/Location-Bangladesh-9ca3af?style=flat&labelColor=1f2937" />
@@ -35,248 +11,57 @@
   </p>
 </div>
 
-<!-- ===================== CONNECT ===================== -->
+## 🧠 About Me
 
-<h3>🌐 Connect with me</h3>
-<p>
-  <a href="https://wa.me/8801729249260" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"></a>
-  <a href="https://linkedin.com/in/bisaktorahi007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a>
-  <a href="https://fb.com/bisaktorahi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
-  <a href="https://instagram.com/bisaktorahi007" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a>
-  <a href="https://twitter.com/rahi207" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"></a>
-</p>
+I'm a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems.
+Currently working on ERP systems and improving my backend & system design skills.
 
-<!-- ===================== SKILLS (ALL KEPT) ===================== -->
+---
 
-<h3>🛠️ Skill, Languages and Tools</h3>
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" alt="HTML5"/></sub>
-  <b><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">&nbsp;HTML5&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-    <img src="./assets/fullStar.svg" alt="Star" width="18" height="18">
-  </sub>
-</p>
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" alt="CSS"/></sub>
-  <b><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">&nbsp;CSS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
+## 🧰 Tech Stack
 
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="20" alt="SASS"/></sub>
-  <b><a href="https://sass-lang.com/" target="_blank">&nbsp;SASS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
+### 🚀 Frontend
 
-<p>
-  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="20" alt="Tailwind CSS"/></sub>
-  <b><a href="https://tailwindcss.com/" target="_blank">&nbsp;Tailwind CSS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-  </sub>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![React JS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 
-<p>
-  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="20" alt="Bootstrap 5"/></sub>
-  <b><a href="https://getbootstrap.com/" target="_blank">&nbsp;Bootstrap 5&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
+### ⚙️ Backend
 
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" alt="JavaScript"/></sub>
-  <b><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp;JavaScript&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Nest JS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&label=Learning)
 
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" alt="TypeScript"/></sub>
-  <b><a href="https://www.typescriptlang.org/" target="_blank">&nbsp;TypeScript&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
+### 🧩 Languages
 
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React JS"/></sub>
-  <b><a href="https://reactjs.org/" target="_blank">&nbsp;React JS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-<p>
-  <sub><img src="./assets/nextjs.svg" width="20" alt="Next JS"/></sub>
-  <b><a href="https://nextjs.org/" target="_blank">&nbsp;Next JS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-  </sub>
-</p>
+### 🗄️ Database
 
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" alt="Node JS"/></sub>
-  <b><a href="https://nodejs.org/" target="_blank">&nbsp;Node JS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="20" alt="Express JS"/></sub>
-  <b><a href="https://expressjs.com/" target="_blank">&nbsp;Express JS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="./assets/NestJS.svg" width="20" alt="Nest JS"/></sub>
-  <b><a href="https://nestjs.com/" target="_blank">&nbsp;Nest JS&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20" alt="SQL"/></sub>
-  <b><a href="https://www.mysql.com/" target="_blank">&nbsp;SQL&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB"/></sub>
-  <b><a href="https://www.mongodb.com/" target="_blank">&nbsp;MongoDB&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/></sub>
-  <b><a href="https://www.postgresql.org/" target="_blank">&nbsp;PostgreSQL&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" alt="PHP"/></sub>
-  <b><a href="https://www.php.net/" target="_blank">&nbsp;PHP&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
-
-<p>
-  <sub><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20" alt="Laravel"/></sub>
-  <b><a href="https://laravel.com/" target="_blank">&nbsp;Laravel&nbsp;</a></b>
-  (currently learning)
-</p>
-
-<p>
-  <sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20" alt="Figma"/></sub>
-  <b><a href="https://www.figma.com/" target="_blank">&nbsp;Figma&nbsp;</a></b>
-  <sub>
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/fullStar.svg" width="18" height="18">
-    <img src="./assets/halfStar.svg" width="18" height="18">
-    <img src="./assets/nullStar.svg" width="18" height="18">
-  </sub>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 <!-- ===================== STATS ===================== -->
 
-<h3>📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 <!-- Dark mode -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahi-007&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahi-007&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" />
 
-<!-- Light mode
-<img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=f5f5f5&title_color=1f2937&text_color=4b5563&icon_color=10b981" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi-007&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahi-007&api_domain=wakapi.dev&theme=dark" />
-![My WakaTime Chart](https://wakatime.com/share/@YOUR_ID/someGeneratedChart.svg) -->
+### 🎯 Currently Learning
 
-### 🎯 Learning Goals
-
-* Mastering Laravel framework for PHP backend development
-* Exploring advanced React patterns and state management
-* Deepening knowledge of PostgreSQL optimization techniques
+* Laravel (PHP Framework)
+* Advanced React Patterns
+* PostgreSQL Optimization
 
 ---
 
@@ -310,8 +95,6 @@
 * Online certifications (JS  / React / Express / mongoDB)
 * Currently working as a Junior Developer at Globe ERP
 
----
-
 ### 📬 Contact
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801729249260)
@@ -319,8 +102,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-bisaktorahi-1877F2?logo=facebook&logoColor=white)](https://fb.com/bisaktorahi)
 [![Instagram](https://img.shields.io/badge/Instagram-bisaktorahi007-E4405F?logo=instagram&logoColor=white)](https://instagram.com/bisaktorahi007)
 [![Email](https://img.shields.io/badge/Email-darkrahi999%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:darkrahi999@gmail.com)
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-@rahi207-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/rahi207) -->
 
+---
 <div align="center">
-  <sub>© Bisakto Rahi — You’re welcome to reuse this CV layout with credit.</sub>
+  <sub>© Bisakto Rahi — Building cool things with code</sub>
 </div>
