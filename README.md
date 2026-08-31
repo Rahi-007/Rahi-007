@@ -77,9 +77,8 @@ Currently working on ERP systems and improving my backend & system design skills
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ### 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rahi-007?theme=dark&font=Karma)
-
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/rahi-007?theme=transparent&font=Karma) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahi-007?theme=transparent&font=Space+Mono)
 <!-- ===================== STATS ===================== -->
 
 ### 📊 GitHub Stats
@@ -87,9 +86,21 @@ Currently working on ERP systems and improving my backend & system design skills
  <!-- <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api?username=rahi-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_bust=1" alt="CrisLottz's GitHub Stats" /> -->
 <!--   <img src="https://github-readme-stats-nine-zeta-50.vercel.app/api/top-langs/?username=rahi-007&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" alt="CrisLottz's Top Languages" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahi-007&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahi-007&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahi-007&layout=compact&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&hide_border=false" width="50%" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rahi-007&bg_color=0d1117&border_color=00e676&title_color=00e676&text_color=c9d1d9&icon_color=00e676&show_icons=true&hide_border=false" width="100%" /> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahi-007&bg_color=0d1117&color=c9d1d9&border_color=00e676&line=00e676&point=ffffff&area=false" width="100%" /> -->
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahi-007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahi-007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahi-007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahi-007&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahi-007&theme=tokyonight&utcOffset=6)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
 
 ### 🎯 Currently Learning
 
